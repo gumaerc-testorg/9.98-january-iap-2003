@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Lecture notes on language.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/9-98-language-and-mind-january-iap-2003/df59b5162193262602f0ced7da567b83_lecture_note_2.pdf
+file: /media/courses/9-98-language-and-mind-january-iap-2003/df59b5162193262602f0ced7da567b83_lecture_note_2.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: Conclusion
 uid: df59b516-2193-2626-02f0-ced7da567b83
