@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 378ddf79-1cbf-87de-bb6e-6670c08c0f36
 resourcetype: Document
 title: Neurolinguistic Questions
 uid: 3184bf2b-6f2b-24dd-961e-711f214a85e9

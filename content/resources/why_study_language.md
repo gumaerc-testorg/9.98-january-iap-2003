@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40a53544-6140-0a5f-84b4-db095712b2ef
 resourcetype: Document
 title: Why Study Language?
 uid: ce54dc8b-cf80-0ba2-b012-2b43e78228a3

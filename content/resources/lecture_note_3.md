@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40a53544-6140-0a5f-84b4-db095712b2ef
 resourcetype: Document
 title: The Structure of Language
 uid: 6855c50f-2691-ba94-a6bd-5400422aebc9

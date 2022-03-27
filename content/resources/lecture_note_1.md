@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40a53544-6140-0a5f-84b4-db095712b2ef
 resourcetype: Document
 title: 'The Human Brain: Brain Areas '
 uid: f27035ae-fffb-8a84-2657-9cd8b9200890

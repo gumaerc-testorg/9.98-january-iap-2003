@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 40a53544-6140-0a5f-84b4-db095712b2ef
 resourcetype: Document
 title: Relationship Between Language and Thought Beyond Cross-linguistic Differences
 uid: 4444200b-8790-9206-981b-e5f36fc8b5b1

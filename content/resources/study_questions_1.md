@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: 378ddf79-1cbf-87de-bb6e-6670c08c0f36
 resourcetype: Document
 title: Outline
 uid: 56c76159-ee5b-18df-053d-ebb9cc09454e
