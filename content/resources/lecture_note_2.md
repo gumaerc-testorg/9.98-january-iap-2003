@@ -5,6 +5,7 @@ file: /courses/9-98-language-and-mind-january-iap-2003/df59b5162193262602f0ced7d
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Conclusion
 uid: df59b516-2193-2626-02f0-ced7da567b83
 ---
 Lecture notes on language.
-

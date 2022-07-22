@@ -5,6 +5,7 @@ file: /courses/9-98-language-and-mind-january-iap-2003/ce54dc8bcf800ba2b0122b43e
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Why Study Language?
 uid: ce54dc8b-cf80-0ba2-b012-2b43e78228a3
 ---
 Lecture notes on reasons to study language.
-

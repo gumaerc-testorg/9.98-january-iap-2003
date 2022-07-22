@@ -6,6 +6,7 @@ file: /courses/9-98-language-and-mind-january-iap-2003/f27035aefffb8a8426579cd8b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 'The Human Brain: Brain Areas '
 uid: f27035ae-fffb-8a84-2657-9cd8b9200890
 ---
 Lecture notes on the ways of defining brain areas, and areas that matter for language.
-
