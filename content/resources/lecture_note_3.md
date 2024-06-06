@@ -2,6 +2,7 @@
 content_type: resource
 description: Lecture notes on the structure of language and sentence processing.
 file: /courses/9-98-language-and-mind-january-iap-2003/6855c50f2691ba94a6bd5400422aebc9_lecture_note_3.pdf
+file_size: 60965
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
