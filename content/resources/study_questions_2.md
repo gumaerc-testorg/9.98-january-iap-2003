@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study questions on neurolinguistics.
-file: /courses/9-98-language-and-mind-january-iap-2003/3184bf2b6f2b24dd961e711f214a85e9_study_questions_2.pdf
+file: /ol-ocw-studio-app/courses/9-98-language-and-mind-january-iap-2003/3184bf2b6f2b24dd961e711f214a85e9_study_questions_2.pdf
 file_size: 24558
 file_type: application/pdf
 learning_resource_types: []
